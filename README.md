@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 💻 I’m currently studying computer engineering @PoliTo
 - 👾 I'm trying to learn graphics programming 
-- 🎮 Sometimes, I make videogames with my friends
+- 🎮 I love making videogames with my friends
