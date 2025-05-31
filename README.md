@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **MartinaPlumari/MartinaPlumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Martina :)
+
+- 💻 I’m currently studying computer engineering @PoliTo
+- 👾 I'm trying to learn graphics programming 
+- 🎮 Sometimes, I make videogames with my friends
