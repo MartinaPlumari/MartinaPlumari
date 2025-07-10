@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Martina :)
 
 - 💻 I’m currently studying computer engineering @PoliTo
-- 👾 I'm trying to learn graphics programming 
+- 👾 I'm learning graphics programming 
 - 🎮 I love making videogames with my friends
